@@ -1,0 +1,635 @@
+.desktop2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop2-desktop2 {
+  width: 100%;
+  height: 5872px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.desktop2-frame16 {
+  top: 3391px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(59, 8, 33, 1);
+}
+ 
+.desktop2-frame22 {
+  gap: 20px;
+  top: 3391px;
+  left: -500px;
+  width: 2440px;
+  height: 1024px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.desktop2-frame21 {
+  width: 230px;
+  height: 440px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_yhdeb7lj0y-59nm-300w.png");
+}
+ 
+.desktop2-frame19 {
+  width: 230px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_oufhfelmcq-qc3h-300w.png");
+}
+ 
+.desktop2-frame17 {
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_lhsi4rtx4j-e9o-1100h.png");
+}
+ 
+.desktop2-frame25 {
+  top: 92px;
+  left: 347px;
+  width: 734px;
+  height: 808px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.desktop2-subtract {
+  top: 0px;
+  left: 0px;
+  width: 734px;
+  height: 808px;
+  position: absolute;
+}
+ 
+.desktop2-text10 {
+  top: 619px;
+  left: 137px;
+  color: rgba(255, 255, 255, 1);
+  width: 481px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text11 {
+  font-weight: 400;
+}
+ 
+.desktop2-text12 {
+  font-weight: 700;
+}
+ 
+.desktop2-text18 {
+  top: 483px;
+  left: 213px;
+  color: rgba(255, 255, 255, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 50.42730712890625px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Didot Title;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-frame18 {
+  width: 230px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_j5wkgzfaug-qd1a-300w.png");
+}
+ 
+.desktop2-frame20 {
+  width: 230px;
+  height: 440px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_czglblb2jz-hgg8-300w.png");
+}
+ 
+.desktop2-frame24 {
+  top: 4878px;
+  left: 385px;
+  width: 668px;
+  height: 245px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.desktop2-frame6 {
+  top: 1024px;
+  left: 0px;
+  width: 1440px;
+  height: 2371px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(59, 8, 33, 1);
+}
+ 
+.desktop2-text19 {
+  top: 1935px;
+  left: 500px;
+  color: rgba(255, 255, 255, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-frame15 {
+  top: 1708px;
+  left: 40px;
+  width: 440px;
+  height: 516px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_nd3krng4ap-0vzb-600h.png");
+}
+ 
+.desktop2-frame9 {
+  top: 183px;
+  left: 452px;
+  width: 187px;
+  height: 472px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_czipsd2pkh-elyj-200w.png");
+}
+ 
+.desktop2-frame8 {
+  top: 323px;
+  left: 823px;
+  width: 339px;
+  height: 472px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_j2w30q0ypy-g42f-400w.png");
+}
+ 
+.desktop2-frame7 {
+  top: 803px;
+  left: 964px;
+  width: 339px;
+  height: 472px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_qzpnhlmemf-2coh-400w.png");
+}
+ 
+.desktop2-frame10 {
+  top: 943px;
+  left: 148px;
+  width: 339px;
+  height: 472px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_keeid5vham-2s39-400w.png");
+}
+ 
+.desktop2-frame13 {
+  top: 1275px;
+  left: 954px;
+  width: 289px;
+  height: 472px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_t-vxmppjk8-xtnt-500h.png");
+}
+ 
+.desktop2-frame14 {
+  top: 655px;
+  left: 741px;
+  width: 339px;
+  height: 472px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_kqjycmwzxo-zi5l-400w.png");
+}
+ 
+.desktop2-text20 {
+  top: 1175px;
+  left: 508px;
+  color: rgba(255, 255, 255, 1);
+  width: 425px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text30 {
+  top: 894px;
+  left: 403px;
+  color: rgba(255, 255, 255, 1);
+  width: 635px;
+  height: auto;
+  position: absolute;
+  font-size: 180px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Didot Title;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-frame4 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(59, 8, 33, 1);
+}
+ 
+.desktop2-frame3 {
+  top: 0px;
+  left: 710px;
+  width: 730px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_ef8sy3gmwy-293-800w.png");
+}
+ 
+.desktop2-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 109px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.desktop2-whitelogo1 {
+  top: 20px;
+  left: 40px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.desktop2-layer2 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop2logo {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop2-emblem {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop2-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+ 
+.desktop2-vector2 {
+  top: 39.39649963378906px;
+  left: 49.792991638183594px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.desktop2-vector3 {
+  top: 25.142091751098633px;
+  left: 49.829498291015625px;
+  width: 12px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.desktop2-vector4 {
+  top: 39.3620491027832px;
+  left: 6.2602338790893555px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.desktop2-vector5 {
+  top: 25.14896583557129px;
+  left: 6.236614227294922px;
+  width: 13px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.desktop2-vector6 {
+  top: 6.949368476867676px;
+  left: 38.56056594848633px;
+  width: 8px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.desktop2-vector7 {
+  top: 6.947414875030518px;
+  left: 24.419551849365234px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.desktop2-vector8 {
+  top: 50.50574493408203px;
+  left: 38.60871887207031px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.desktop2-vector9 {
+  top: 50.54326248168945px;
+  left: 24.485998153686523px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.desktop2-text31 {
+  top: 419px;
+  left: 80px;
+  color: rgba(255, 255, 255, 1);
+  width: 449px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text32 {
+  top: 548px;
+  left: 80px;
+  color: rgba(255, 255, 255, 1);
+  width: 449px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text33 {
+  top: 692px;
+  left: 80px;
+  color: rgba(255, 255, 255, 1);
+  width: 449px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-frame5 {
+  top: 0px;
+  left: 620px;
+  width: 308px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_cs8pf50ptc-xm2v-400w.png");
+}
+ 
+.desktop2-text34 {
+  top: 178px;
+  left: 511px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  box-shadow: 0px 4px 4.900000095367432px 0px rgba(0, 0, 0, 0.30000001192092896) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Didot Title;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-frame27 {
+  top: 4415px;
+  left: 0px;
+  width: 1440px;
+  height: 1457px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(59, 8, 33, 1);
+}
+ 
+.desktop2-frame28 {
+  top: 197px;
+  left: 40px;
+  width: 555px;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/tq_qeoyqqee42-ixsv-600w.png");
+}
+ 
+.desktop2-text35 {
+  top: 170px;
+  left: 635px;
+  color: rgba(255, 255, 255, 1);
+  width: 762px;
+  height: auto;
+  position: absolute;
+  font-size: 165.85247802734375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Didot Title;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text36 {
+  top: 909px;
+  left: 635px;
+  color: rgba(255, 255, 255, 1);
+  width: 611px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Delight;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
